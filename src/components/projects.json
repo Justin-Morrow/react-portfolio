@@ -3,24 +3,42 @@
     "id": 1,
     "name": "Whip",
     "image": "/assets/images/whip.png",
-    "code": "https://github.com/Justin-Morrow/Project-1"
+    "code": "https://github.com/Justin-Morrow/Project-1",
+    "deploy": "https://justin-morrow.github.io/Project-1/"
   },
   {
     "id": 2,
     "name": "Code Quiz",
     "image": "/assets/images/codequiz.png",
-    "code": "https://github.com/Justin-Morrow/Code-Quiz"
+    "code": "https://github.com/Justin-Morrow/Code-Quiz",
+    "deploy": "https://justin-morrow.github.io/Code-Quiz/"
   },
   {
     "id": 3,
     "name": "Weather Dashboard",
     "image": "/assets/images/dashboard.png",
-    "code": "https://github.com/Justin-Morrow/Weather_API"
+    "code": "https://github.com/Justin-Morrow/Weather_API",
+    "deploy": "https://justin-morrow.github.io/Weather_API/"
   },
   {
     "id": 4,
     "name": "Note Taker",
     "image": "/assets/images/notetaker.png",
     "code": "https://github.com/Justin-Morrow/Note_Taker"
+  },
+  {
+    "id": 5,
+    "name": "Tech Blog",
+    "image": "/assets/images/tech.png",
+    "code": "https://github.com/Justin-Morrow/TechBlog",
+    "deploy": "https://polar-wave-39022.herokuapp.com/"
+  },
+  {
+    "id": 6,
+    "name": "Dog Date",
+    "image": "/assets/images/dogdate.png",
+    "code": "https://github.com/Justin-Morrow/Project-2",
+    "deploy": "https://ancient-scrubland-48723.herokuapp.com/"
   }
 ]
+

@@ -15,6 +15,9 @@ function ProjectCard(props) {
           <li>
             <strong>Code Repo:</strong> <a href={props.code} > {props.code}</a>
           </li>
+          <li>
+            <strong>Deployed:</strong> <a href={props.deploy} > {props.deploy}</a>
+          </li>
         </ul>
       </div>
     </div>

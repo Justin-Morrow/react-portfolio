@@ -16,6 +16,7 @@ export default function Portfolio() {
             name={project.name}
             image={project.image}
             code={project.code}
+            deploy={project.deploy}
           />
         ))}
       </Wrapper>

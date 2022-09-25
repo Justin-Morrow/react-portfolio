@@ -29,7 +29,7 @@
   {
     "id": 5,
     "name": "Tech Blog",
-    "image": "/assets/images/tech.png",
+    "image": "/assets/images/Tech.png",
     "code": "https://github.com/Justin-Morrow/TechBlog",
     "deploy": "https://polar-wave-39022.herokuapp.com/"
   },
